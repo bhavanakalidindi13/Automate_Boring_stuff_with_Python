@@ -6,7 +6,7 @@
 
 3. search() method returns match object.
 
-4. 
+4. group() method returns strings of the matched text.
 
 5. In r'(\d\d\d)-(\d\d\d-\d\d\d\d)' , group 0 gives full pattern that is (\d\d\d)-(\d\d\d-\d\d\d\d) ,
  group 1 gives the pattern (\d\d\d) and group 2 gives the pattern (\d\d\d-\d\d\d\d).
